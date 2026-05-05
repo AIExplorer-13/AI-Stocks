@@ -1,0 +1,235 @@
+CORE FRAMEWORK
+
+[CONCEPT]
+Financial ratios are predictive indicators used to evaluate a company’s resilience, efficiency, and long-term value creation.
+
+[INSIGHT]
+Modern analysis uses ratios not just descriptively but for forward-looking decision-making under macroeconomic conditions.
+
+LIQUIDITY ANALYSIS
+
+[CONCEPT]
+Liquidity measures a company’s ability to meet short-term obligations.
+
+[FORMULA]
+Current Ratio = Current Assets / Current Liabilities
+
+[INSIGHT]
+Indicates short-term solvency and working capital strength.
+
+[RULE]
+If Current Ratio > 2.0 → Then capital may be inefficiently utilized
+
+[RULE]
+If Current Ratio between 1.5 and 2.0 → Then liquidity is strong and stable
+
+[RULE]
+If Current Ratio between 1.0 and 1.5 → Then liquidity is adequate but sensitive
+
+[RULE]
+If Current Ratio < 1.0 → Then company faces insolvency risk
+
+[FORMULA]
+Quick Ratio = (Current Assets − Inventory) / Current Liabilities
+
+[INSIGHT]
+Measures immediate liquidity excluding inventory.
+
+[RULE]
+If Quick Ratio > 1.0 → Then company has strong immediate solvency
+
+[RULE]
+If Quick Ratio < 1.0 → Then company may face cash flow stress
+
+[FORMULA]
+Cash Ratio = (Cash + Marketable Securities) / Current Liabilities
+
+[INSIGHT]
+Provides the most conservative liquidity measure.
+
+[RULE]
+If Cash Ratio > 0.8 → Then liquidity is extremely strong
+
+[RULE]
+If Cash Ratio < 0.5 → Then immediate liquidity risk exists
+
+[FORMULA]
+Operating Cash Flow Ratio = Operating Cash Flow / Current Liabilities
+
+[INSIGHT]
+Measures ability of core operations to fund liabilities.
+
+[RULE]
+If Operating Cash Flow Ratio > 1.0 → Then company is self-sustaining
+
+SOLVENCY & LEVERAGE
+
+[CONCEPT]
+Solvency evaluates long-term financial stability and debt sustainability.
+
+[FORMULA]
+Debt-to-Equity Ratio = Total Liabilities / Shareholders’ Equity
+
+[INSIGHT]
+Measures financial leverage and risk exposure.
+
+[RULE]
+If D/E between 0.5 and 1.5 → Then leverage is balanced
+
+[RULE]
+If D/E > 2.0 → Then company is highly leveraged and risky
+
+[TABLE_ROW]
+Sector: Technology
+Avg_D/E: 0.8
+Guideline: Keep below 1.0
+
+[TABLE_ROW]
+Sector: Manufacturing
+Avg_D/E: 1.8
+Guideline: Moderate leverage acceptable
+
+[TABLE_ROW]
+Sector: Retail
+Avg_D/E: 2.2
+Guideline: Higher leverage due to expansion
+
+[TABLE_ROW]
+Sector: Real Estate
+Avg_D/E: 3.5
+Guideline: High leverage sensitivity
+
+[FORMULA]
+Interest Coverage Ratio = EBIT / Interest Expense
+
+[INSIGHT]
+Measures ability to service debt obligations.
+
+[RULE]
+If ICR > 3.0 → Then strong debt servicing capacity
+
+[RULE]
+If ICR < 1.5 → Then high default risk
+
+PROFITABILITY ANALYSIS
+
+[CONCEPT]
+Profitability measures how effectively revenue is converted into earnings.
+
+[FORMULA]
+Net Profit Margin = Net Income / Revenue
+
+[INSIGHT]
+Indicates overall financial efficiency.
+
+[RULE]
+If Net Margin > 20% → Then company has strong competitive advantage
+
+[RULE]
+If Net Margin between 10% and 15% → Then company is healthy
+
+[RULE]
+If Net Margin < 5% → Then company is vulnerable
+
+EFFICIENCY ANALYSIS
+
+[CONCEPT]
+Efficiency measures how effectively assets generate revenue.
+
+[FORMULA]
+Asset Turnover Ratio = Net Sales / Average Total Assets
+
+[INSIGHT]
+Higher ratio indicates efficient asset utilization.
+
+[RULE]
+If Asset Turnover is high → Then company efficiently uses capital
+
+[RULE]
+If Asset Turnover is low → Then operational inefficiency exists
+
+RETURN METRICS
+
+[CONCEPT]
+Return metrics evaluate effectiveness of capital allocation.
+
+[FORMULA]
+Return on Equity (ROE) = Net Income / Shareholders’ Equity
+
+[INSIGHT]
+Measures return generated for shareholders.
+
+[RULE]
+If ROE > 15% → Then company is creating strong shareholder value
+
+[RULE]
+If ROE < 10% → Then company performance is weak
+
+[FORMULA]
+Return on Assets (ROA) = Net Income / Total Assets
+
+[INSIGHT]
+Measures efficiency of total asset utilization.
+
+[RULE]
+If ROA > 7.5% → Then company has high operational efficiency
+
+[RULE]
+If ROA < 2.5% → Then company is capital intensive
+
+VALUATION & MARKET SENTIMENT
+
+[CONCEPT]
+Valuation ratios reflect market expectations and pricing of a company.
+
+[FORMULA]
+P/E Ratio = Market Price per Share / Earnings per Share
+
+[INSIGHT]
+Indicates investor expectations of future growth.
+
+[RULE]
+If P/E between 15 and 25 → Then stock is fairly valued
+
+[RULE]
+If P/E > 40 → Then stock may be overvalued or speculative
+
+[FORMULA]
+PEG Ratio = P/E Ratio / Growth Rate
+
+[INSIGHT]
+Adjusts valuation based on growth expectations.
+
+[RULE]
+If PEG < 1.0 → Then stock is undervalued relative to growth
+
+[RULE]
+If PEG > 2.0 → Then stock is overvalued
+
+TECHNICAL INDICATORS
+
+[FORMULA]
+RSI = 100 − (100 / (1 + RS))
+
+[INSIGHT]
+Measures momentum and identifies overbought or oversold conditions.
+
+[RULE]
+If RSI > 70 → Then asset is overbought
+
+[RULE]
+If RSI < 30 → Then asset is oversold
+
+DECISION FRAMEWORK
+
+[CONCEPT]
+Financial diagnosis requires combining multiple ratios rather than relying on a single metric.
+
+[INSIGHT]
+Cross-analysis improves decision accuracy and reduces misinterpretation.
+
+[RULE]
+If liquidity is strong AND profitability is high AND leverage is controlled → Then company is financially healthy
+
+[RULE]
+If liquidity is weak AND leverage is high → Then financial risk is elevated

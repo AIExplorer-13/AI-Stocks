@@ -1,0 +1,170 @@
+ASSET ALLOCATION
+
+[CONCEPT]
+Asset allocation is the distribution of capital across asset classes such as equity, debt, real estate, and cash.
+
+[INSIGHT]
+Asset allocation explains the majority of portfolio return variability and is more important than individual stock selection.
+
+[FORMULA]
+Equity Allocation (%) = 100 − Investor Age
+
+[INSIGHT]
+Provides a simple rule to adjust risk exposure based on age.
+
+[RULE]
+If investor age increases → Then reduce equity allocation
+
+[RULE]
+If investment horizon is long → Then increase equity allocation
+
+DIRECT EQUITY VS MUTUAL FUNDS
+
+[CONCEPT]
+Mutual funds pool investor capital and provide diversification through professional management.
+
+[INSIGHT]
+Reduces unsystematic risk compared to direct stock investing.
+
+[CONCEPT]
+Direct equity provides full control over portfolio decisions.
+
+[INSIGHT]
+Offers potential for higher returns but increases risk.
+
+[RULE]
+If investment amount < ₹50 lakh → Then prefer mutual funds
+
+[RULE]
+If investment amount ≥ ₹50 lakh → Then Portfolio Management Services (PMS) can be considered
+
+TAXATION FRAMEWORK (INDIA)
+
+[TABLE_ROW]
+Type: Equity STCG
+Condition: ≤ 12 months
+Rate: 20%
+
+[TABLE_ROW]
+Type: Equity LTCG
+Condition: > 12 months
+Rate: 12.5%
+
+[TABLE_ROW]
+Condition: LTCG ≤ ₹1.25 lakh
+Tax: Exempt
+
+[RULE]
+If equity holding period > 12 months → Then LTCG tax applies
+
+[TABLE_ROW]
+Type: Debt Mutual Fund
+Condition: >65% debt, purchased after April 1, 2023
+Tax: Income tax slab rate
+
+[RULE]
+If fund is debt-oriented (>65% debt) → Then indexation benefit is not applicable
+
+CORE-SATELLITE STRATEGY
+
+[CONCEPT]
+Core-satellite strategy combines passive investing with active strategies.
+
+[TABLE_ROW]
+Component: Core
+Allocation: 60–80%
+Purpose: Stability and market returns
+
+[TABLE_ROW]
+Component: Satellite
+Allocation: 20–40%
+Purpose: Alpha generation
+
+[FORMULA]
+Portfolio Return = (Core Weight × Core Return) + (Satellite Weight × Satellite Return)
+
+[INSIGHT]
+Balances stable returns with higher return opportunities.
+
+[FORMULA]
+Tracking Error = Satellite Weight × Satellite Tracking Error
+
+[INSIGHT]
+Measures deviation from benchmark due to active positions.
+
+[RULE]
+If tracking error exceeds target → Then reduce satellite allocation
+
+BUCKET STRATEGY (TIME-BASED)
+
+[CONCEPT]
+Bucket strategy divides investments based on time horizon and financial goals.
+
+[TABLE_ROW]
+Bucket: Short-Term
+Horizon: 0–3 years
+Allocation: 100% liquid assets
+Instruments: Liquid funds, savings, FDs
+
+[TABLE_ROW]
+Bucket: Medium-Term
+Horizon: 4–10 years
+Allocation: 70% debt, 30% equity
+
+[TABLE_ROW]
+Bucket: Long-Term
+Horizon: 11+ years
+Allocation: 100% equity
+
+[RULE]
+If short-term liquidity < 1 year expenses → Then refill from medium-term bucket
+
+[RULE]
+If market is in bull phase → Then rebalance from growth to income bucket
+
+REBALANCING
+
+[CONCEPT]
+Rebalancing is restoring portfolio to its target allocation.
+
+[RULE]
+If asset allocation deviates by more than 5% → Then rebalance portfolio
+
+PERFORMANCE METRICS
+
+[FORMULA]
+Sharpe Ratio = (Portfolio Return − Risk-Free Rate) / Portfolio Volatility
+
+[INSIGHT]
+Measures return per unit of risk.
+
+[FORMULA]
+Information Ratio = (Portfolio Return − Benchmark Return) / Tracking Error
+
+[INSIGHT]
+Measures manager’s ability to outperform benchmark.
+
+[RULE]
+If Information Ratio > 0.5 → Then performance is good
+
+[RULE]
+If Information Ratio > 1.0 → Then performance is excellent
+
+PERFORMANCE REPORTING
+
+[CONCEPT]
+Different return metrics are used for evaluation.
+
+[RULE]
+If evaluating portfolio performance → Then use Time-Weighted Rate of Return (TWRR)
+
+[RULE]
+If measuring investor-specific returns → Then use XIRR
+
+FINAL STRATEGIC RULES
+
+[RULE]
+If diversification + asset allocation + risk management align → Then portfolio stability improves
+
+[RULE]
+If portfolio is not rebalanced periodically → Then risk exposure becomes misaligned

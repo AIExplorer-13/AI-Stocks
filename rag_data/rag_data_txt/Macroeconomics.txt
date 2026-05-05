@@ -1,0 +1,163 @@
+MACROECONOMIC FOUNDATION
+
+[CONCEPT]
+Macroeconomics studies the overall performance of an economy using aggregate variables like GDP, inflation, and interest rates.
+
+[INSIGHT]
+Macroeconomic variables are essential for modeling risk and predicting asset returns.
+
+[CONCEPT]
+The circular flow model states that total spending in an economy equals total income.
+
+[INSIGHT]
+This ensures equilibrium between production and consumption.
+
+🔵 GDP (GROSS DOMESTIC PRODUCT)
+
+[CONCEPT]
+GDP represents the total market value of all final goods and services produced within a country.
+
+[FORMULA]
+GDP (Y) = C + I + G + (X − M)
+
+[INSIGHT]
+GDP measures economic output using consumption, investment, government spending, and net exports.
+
+[TABLE_ROW]
+Component: Consumption (C)
+Driver: Disposable Income
+Sensitivity: High
+
+[TABLE_ROW]
+Component: Investment (I)
+Driver: Interest Rates
+Sensitivity: Very High
+
+[TABLE_ROW]
+Component: Government Spending (G)
+Driver: Fiscal Policy
+Sensitivity: Low
+
+[TABLE_ROW]
+Component: Net Exports (X−M)
+Driver: Exchange Rates
+Sensitivity: High
+
+[RULE]
+If interest rates increase → Then investment (I) decreases
+
+[RULE]
+If disposable income increases → Then consumption (C) increases
+
+🟡 INFLATION
+
+[CONCEPT]
+Inflation is a sustained increase in the general price level, reducing purchasing power.
+
+[INSIGHT]
+Inflation reduces real returns and influences central bank policy decisions.
+
+[CONCEPT]
+Demand-pull inflation occurs when demand exceeds supply.
+
+[CONCEPT]
+Cost-push inflation occurs due to rising production costs.
+
+[RULE]
+If demand exceeds supply → Then prices increase (demand-pull inflation)
+
+[RULE]
+If production costs rise → Then prices increase (cost-push inflation)
+
+🟠 QUANTITY THEORY OF MONEY
+
+[FORMULA]
+M × V = P × Y
+
+[INSIGHT]
+Money supply and velocity determine price levels and economic output.
+
+[RULE]
+If money supply (M) increases without output growth → Then inflation increases
+
+🔴 INTEREST RATES & POLICY
+
+[CONCEPT]
+Interest rates determine the discount rate for future cash flows.
+
+[FORMULA]
+i = r* + π + 0.5(π − π*) + 0.5(y − ȳ)
+
+[INSIGHT]
+The Taylor Rule guides central banks in setting interest rates based on inflation and output gap.
+
+[RULE]
+If inflation rises above target → Then central bank increases interest rates
+
+[RULE]
+If economic output is below potential → Then central bank lowers interest rates
+
+[INSIGHT]
+Central banks must increase nominal rates more than inflation to control real rates (Taylor Principle).
+
+🟣 POLICY LAGS
+
+[CONCEPT]
+Monetary policy impacts the economy with delayed effects.
+
+[TABLE_ROW]
+Variable: Financial Markets
+Impact Horizon: Immediate (days to weeks)
+
+[TABLE_ROW]
+Variable: GDP
+Impact Horizon: 12–18 months
+
+[TABLE_ROW]
+Variable: Inflation
+Impact Horizon: 18–24 months
+
+[TABLE_ROW]
+Variable: Core Inflation
+Impact Horizon: 24–36 months
+
+[RULE]
+If reacting to macro signals → Then account for time lag before effects materialize
+
+🔵 AI AGENT ARCHITECTURE (MACRO)
+
+[CONCEPT]
+Financial AI systems operate in layered architecture: perception, reasoning, strategy, execution.
+
+[TABLE_ROW]
+Layer: Perception
+Function: Collect macro and market data
+
+[TABLE_ROW]
+Layer: Reasoning
+Function: Analyze data using models and knowledge graphs
+
+[TABLE_ROW]
+Layer: Strategy
+Function: Generate investment decisions
+
+[TABLE_ROW]
+Layer: Execution
+Function: Execute trades with constraints
+
+[RULE]
+If macroeconomic indicators change → Then update strategy layer decisions
+
+🟤 STRATEGIC INSIGHTS
+
+[CONCEPT]
+Macroeconomic variables define constraints for financial markets.
+
+[INSIGHT]
+Understanding inflation, GDP, and interest rates helps predict asset behavior.
+
+[RULE]
+If inflation rises and rates increase → Then equity valuations may decline
+
+[RULE]
+If GDP growth is strong → Then corporate earnings and equity markets improve

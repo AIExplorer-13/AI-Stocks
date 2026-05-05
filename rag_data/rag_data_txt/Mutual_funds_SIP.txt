@@ -1,0 +1,234 @@
+LIQUIDITY RATIOS
+
+[CONCEPT]
+Liquidity ratios measure a company’s ability to meet short-term obligations.
+
+[FORMULA]
+Current Ratio = Current Assets / Current Liabilities
+
+[INSIGHT]
+Indicates short-term financial health and ability to cover obligations.
+
+[RULE]
+If Current Ratio > 2.0 → Then capital may be underutilized
+
+[RULE]
+If Current Ratio between 1.5 and 2.0 → Then company is financially healthy
+
+[RULE]
+If Current Ratio between 1.0 and 1.5 → Then company has limited liquidity buffer
+
+[RULE]
+If Current Ratio < 1.0 → Then company faces insolvency risk
+
+[FORMULA]
+Quick Ratio = (Cash + Marketable Securities + Receivables) / Current Liabilities
+
+[INSIGHT]
+Measures immediate liquidity excluding inventory.
+
+[RULE]
+If Quick Ratio ≥ 1.0 → Then company can meet obligations without selling inventory
+
+[FORMULA]
+Cash Ratio = Cash / Current Liabilities
+
+[INSIGHT]
+Measures most conservative liquidity using only cash.
+
+[RULE]
+If Cash Ratio > 0.8 → Then company has very strong liquidity
+
+[FORMULA]
+Operating Cash Flow Ratio = Operating Cash Flow / Current Liabilities
+
+[INSIGHT]
+Indicates whether business operations generate enough cash to meet obligations.
+
+[RULE]
+If Operating Cash Flow Ratio > 1.0 → Then company is self-sustaining
+
+SOLVENCY RATIOS
+
+[CONCEPT]
+Solvency ratios measure long-term financial stability and debt sustainability.
+
+[FORMULA]
+Debt-to-Equity Ratio = Total Debt / Shareholder Equity
+
+[INSIGHT]
+Measures financial leverage and risk level.
+
+[RULE]
+If D/E < 1.0 → Then company is conservatively financed
+
+[RULE]
+If D/E between 0.5 and 1.5 → Then company has healthy leverage
+
+[RULE]
+If D/E > 2.0 → Then company is highly leveraged and risky
+
+[FORMULA]
+Interest Coverage Ratio = EBIT / Interest Expense
+
+[INSIGHT]
+Measures ability to pay interest obligations.
+
+[RULE]
+If ICR > 3.0 → Then company has strong debt servicing ability
+
+[RULE]
+If ICR between 1.5 and 3.0 → Then company has moderate risk
+
+[RULE]
+If ICR < 1.5 → Then company is at risk of default
+
+PROFITABILITY RATIOS
+
+[CONCEPT]
+Profitability ratios measure how efficiently a company generates profit.
+
+[FORMULA]
+Gross Profit Margin = Gross Profit / Revenue
+
+[INSIGHT]
+Measures production efficiency.
+
+[FORMULA]
+Operating Margin = Operating Income / Revenue
+
+[INSIGHT]
+Measures operational efficiency.
+
+[RULE]
+If Operating Margin > 20% → Then company has strong operational efficiency
+
+[RULE]
+If Operating Margin < 5% → Then company is in risk zone
+
+[FORMULA]
+Net Profit Margin = Net Profit / Revenue
+
+[INSIGHT]
+Measures overall profitability after all expenses.
+
+[RULE]
+If Net Margin > 20% → Then company is highly profitable
+
+[RULE]
+If Net Margin between 10% and 15% → Then company is healthy
+
+[RULE]
+If Net Margin < 5% → Then company is vulnerable
+
+EFFICIENCY RATIOS
+
+[CONCEPT]
+Efficiency ratios measure how effectively a company uses its assets.
+
+[FORMULA]
+Asset Turnover Ratio = Revenue / Total Assets
+
+[INSIGHT]
+Measures how efficiently assets generate revenue.
+
+[RULE]
+If Asset Turnover is high → Then company is efficiently utilizing assets
+
+RETURN RATIOS
+
+[CONCEPT]
+Return ratios measure how effectively a company generates returns for investors.
+
+[FORMULA]
+Return on Equity (ROE) = Net Income / Shareholder Equity
+
+[INSIGHT]
+Measures return generated for shareholders.
+
+[RULE]
+If ROE > 15% → Then company is creating strong value
+
+[RULE]
+If ROE < 10% → Then company is underperforming
+
+[FORMULA]
+Return on Assets (ROA) = Net Income / Total Assets
+
+[INSIGHT]
+Measures how efficiently assets generate profit.
+
+[RULE]
+If ROA > 7.5% → Then company has strong asset efficiency
+
+[RULE]
+If ROA < 2.5% → Then company is inefficient
+
+VALUATION RATIOS
+
+[CONCEPT]
+Valuation ratios measure how the market values a company.
+
+[FORMULA]
+Price-to-Earnings Ratio (P/E) = Price per Share / Earnings per Share
+
+[INSIGHT]
+Indicates how much investors are willing to pay for earnings.
+
+[RULE]
+If P/E < 15 → Then stock may be undervalued
+
+[RULE]
+If P/E between 15 and 25 → Then stock is fairly valued
+
+[RULE]
+If P/E > 40 → Then stock may be overvalued
+
+[FORMULA]
+PEG Ratio = P/E Ratio / Earnings Growth Rate
+
+[INSIGHT]
+Adjusts valuation based on growth.
+
+[RULE]
+If PEG < 1.0 → Then stock is undervalued relative to growth
+
+[RULE]
+If PEG > 2.0 → Then stock is overvalued
+
+[FORMULA]
+Price-to-Book Ratio (P/B) = Market Value / Book Value
+
+[INSIGHT]
+Compares market valuation to asset value.
+
+[RULE]
+If P/B < 1.0 → Then stock may be undervalued
+
+DECISION FRAMEWORK
+
+[CONCEPT]
+Financial ratios should be analyzed collectively rather than individually.
+
+[INSIGHT]
+No single ratio provides a complete picture of financial health.
+
+[RULE]
+If multiple ratios indicate strength → Then investment is favorable
+
+[RULE]
+If liquidity is weak and leverage is high → Then investment risk is high
+
+ADVANCED ANALYSIS
+
+[CONCEPT]
+DuPont Analysis breaks ROE into components.
+
+[INSIGHT]
+Helps identify whether returns come from efficiency, margins, or leverage.
+
+[CONCEPT]
+Scenario analysis evaluates performance under different economic conditions.
+
+[RULE]
+If interest rates increase → Then debt-heavy companies face higher risk

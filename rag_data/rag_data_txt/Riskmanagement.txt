@@ -1,0 +1,314 @@
+CORE PRINCIPLE
+
+[CONCEPT]
+Risk management is the process of identifying, analyzing, and controlling potential financial losses.
+
+[INSIGHT]
+The goal is not to avoid losses but to ensure long-term survivability and prevent catastrophic drawdowns.
+
+[RULE]
+If capital preservation is ensured → Then long-term profitability becomes achievable
+
+STOP-LOSS STRATEGY
+
+[CONCEPT]
+A stop-loss is a predefined price level where a position is exited to limit losses.
+
+[INSIGHT]
+It represents the point where the trade thesis is invalidated.
+
+[RULE]
+If price reaches stop-loss level → Then exit position immediately
+
+[CONCEPT]
+Fixed-percentage stop-loss ignores market volatility.
+
+[INSIGHT]
+This can lead to premature exits or excessive risk.
+
+ATR-BASED STOP LOSS
+
+[CONCEPT]
+Average True Range (ATR) measures market volatility.
+
+[FORMULA]
+ATR Stop Loss (Long) = Entry Price − (ATR × Multiplier)
+
+[INSIGHT]
+Adjusts stop-loss based on volatility to avoid premature exits.
+
+[FORMULA]
+ATR Stop Loss (Short) = Entry Price + (ATR × Multiplier)
+
+[INSIGHT]
+Provides dynamic risk buffer for short positions.
+
+[TABLE_ROW]
+Market_Condition: High Volatility
+ATR_Multiplier: 1.5–2.0
+Strategy: Tight risk control
+
+[TABLE_ROW]
+Market_Condition: Moderate Volatility
+ATR_Multiplier: 2.0–2.5
+Strategy: Balanced approach
+
+[TABLE_ROW]
+Market_Condition: Low Volatility
+ATR_Multiplier: 2.5–3.5
+Strategy: Wider stop-loss
+
+[RULE]
+If volatility increases → Then widen stop-loss using ATR
+
+[RULE]
+If volatility decreases → Then tighten stop-loss
+
+TRAILING STOP
+
+[CONCEPT]
+Trailing stop adjusts dynamically as price moves in favorable direction.
+
+[INSIGHT]
+Locks in profits while allowing trend continuation.
+
+[RULE]
+If price moves in favorable direction → Then adjust stop-loss upward
+
+[RULE]
+If price reverses → Then stop-loss remains fixed
+
+POSITION SIZING
+
+[CONCEPT]
+Position sizing determines how much capital is allocated per trade.
+
+[FORMULA]
+Position Size = (Account Equity × Risk %) / (Entry Price − Stop Loss)
+
+[INSIGHT]
+Ensures consistent risk per trade.
+
+[RULE]
+If risk per trade exceeds 2% → Then reduce position size
+
+[RULE]
+If account balance decreases → Then reduce position size proportionally
+
+FIXED FRACTIONAL MODEL
+
+[CONCEPT]
+A fixed percentage of capital is risked per trade (typically 1–2%).
+
+[INSIGHT]
+Automatically reduces risk during drawdowns and increases during growth.
+
+KELLY CRITERION
+
+[CONCEPT]
+Kelly Criterion determines optimal capital allocation for maximum growth.
+
+[FORMULA]
+f = (bp − q) / b
+
+[INSIGHT]
+Maximizes long-term growth but introduces high volatility.
+
+[RULE]
+If using Kelly Criterion → Then use fractional Kelly (25%–50%) to reduce risk
+
+VOLATILITY-BASED SIZING
+
+[FORMULA]
+Position Size = Risk Amount / (ATR × Multiplier)
+
+[INSIGHT]
+Maintains consistent risk across assets with different volatility levels.
+
+[RULE]
+If asset volatility increases → Then reduce position size
+
+RISK-REWARD RATIO
+
+[CONCEPT]
+Risk-reward ratio compares potential loss to potential gain.
+
+[FORMULA]
+Risk-Reward Ratio = Potential Loss / Potential Gain
+
+[INSIGHT]
+Determines trade quality and profitability potential.
+
+[RULE]
+If Risk-Reward ≥ 1:2 → Then trade is acceptable
+
+[RULE]
+If Risk-Reward < 1:1 → Then avoid trade
+
+EXPECTANCY
+
+[CONCEPT]
+Expectancy measures average profit per trade.
+
+[FORMULA]
+Expectancy = (Win Rate × Avg Win) − (Loss Rate × Avg Loss)
+
+[INSIGHT]
+Determines long-term profitability of a strategy.
+
+[RULE]
+If Expectancy > 0 → Then strategy is profitable
+
+[RULE]
+If Expectancy < 0 → Then strategy leads to losses
+
+BREAK-EVEN WIN RATE
+
+[FORMULA]
+Break-even Win Rate = 1 / (1 + Risk-Reward Ratio)
+
+[INSIGHT]
+Shows minimum win rate required to avoid losses.
+
+MARKET FRICTIONS
+
+[CONCEPT]
+Market frictions include commissions, slippage, and transaction costs.
+
+[INSIGHT]
+These reduce actual profitability compared to theoretical returns.
+
+[RULE]
+If trading frequency is high → Then impact of transaction cost increases
+
+DIVERSIFICATION
+
+[CONCEPT]
+Diversification reduces risk by spreading investments across assets.
+
+[INSIGHT]
+Reduces unsystematic risk but not systematic risk.
+
+[CONCEPT]
+Unsystematic risk is asset-specific and can be diversified.
+
+[CONCEPT]
+Systematic risk affects the entire market and cannot be eliminated.
+
+[RULE]
+If portfolio is diversified → Then unsystematic risk decreases
+
+PORTFOLIO CONSTRUCTION
+
+[TABLE_ROW]
+Rule: Max allocation per stock
+Value: 5%
+
+[TABLE_ROW]
+Rule: Max sector allocation
+Value: 15–20%
+
+[RULE]
+If single stock exceeds 5% allocation → Then rebalance portfolio
+
+CORRELATION
+
+[CONCEPT]
+Correlation measures relationship between asset movements.
+
+[INSIGHT]
+Lower correlation improves diversification.
+
+[TABLE_ROW]
+Correlation: +0.7 to +1.0
+Meaning: Strong positive
+
+[TABLE_ROW]
+Correlation: −0.3 to +0.3
+Meaning: Low correlation
+
+[TABLE_ROW]
+Correlation: −1.0 to −0.3
+Meaning: Strong negative
+
+[RULE]
+If assets are highly correlated → Then diversification benefit is low
+
+HEDGING
+
+[CONCEPT]
+Hedging involves taking offsetting positions to reduce risk.
+
+[CONCEPT]
+Protective put sets a minimum loss level.
+
+[CONCEPT]
+Covered call generates income but limits upside.
+
+[CONCEPT]
+Collar strategy limits both risk and reward.
+
+[RULE]
+If downside risk is high → Then use protective put
+
+BETA & HEDGE RATIO
+
+[CONCEPT]
+Beta measures sensitivity of a stock to market movements.
+
+[RULE]
+If Beta > 1 → Then asset is more volatile than market
+
+[FORMULA]
+Hedge Ratio = Portfolio Value × Beta
+
+[INSIGHT]
+Used to neutralize market risk exposure.
+
+OPTIONS GREEKS
+
+[CONCEPT]
+Delta measures sensitivity to price changes.
+
+[CONCEPT]
+Gamma measures change in delta.
+
+[CONCEPT]
+Theta measures time decay.
+
+[CONCEPT]
+Vega measures sensitivity to volatility.
+
+[RULE]
+If maintaining delta neutrality → Then hedge directional risk
+
+RISK GOVERNANCE
+
+[CONCEPT]
+Institutional risk management follows three lines of defense.
+
+[TABLE_ROW]
+Layer: First Line
+Role: Traders manage risk
+
+[TABLE_ROW]
+Layer: Second Line
+Role: Risk oversight
+
+[TABLE_ROW]
+Layer: Third Line
+Role: Internal audit
+
+ADVANCED RISK
+
+[CONCEPT]
+Value at Risk (VaR) estimates maximum expected loss.
+
+[CONCEPT]
+Stress testing evaluates extreme scenarios.
+
+[INSIGHT]
+VaR underestimates tail risk, so additional models are required.
+
+[RULE]
+If extreme market event occurs → Then rely on stress testing over historical models

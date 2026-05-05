@@ -1,0 +1,182 @@
+[CONCEPT]
+Behavioral Finance studies how psychology influences financial market behavior.
+
+[CONCEPT]
+Efficient Market Hypothesis (EMH) assumes markets are rational and prices reflect all available information.
+
+[INSIGHT]
+Behavioral finance explains market inefficiencies caused by human emotions and biases.
+
+[CONCEPT]
+Markets are driven by fear and greed rather than purely rational decisions.
+
+[INSIGHT]
+Emotional behavior creates predictable patterns like bubbles and crashes.
+
+[RULE]
+If market sentiment is driven by extreme greed → Then asset prices may be overvalued and prone to correction
+
+[RULE]
+If market sentiment is driven by extreme fear → Then assets may be undervalued and present buying opportunities
+
+[CONCEPT]
+Herd behavior occurs when investors follow the crowd instead of independent analysis.
+
+[INSIGHT]
+Herd behavior leads to asset bubbles and sharp market crashes.
+
+[RULE]
+If investors exhibit herd behavior → Then market volatility and mispricing increase
+
+[CONCEPT]
+Recency bias causes investors to overweight recent trends while ignoring long-term fundamentals.
+
+[INSIGHT]
+This leads to momentum chasing and poor long-term decisions.
+
+[RULE]
+If recent market performance is strong → Then investors may overestimate future returns due to recency bias
+
+[CONCEPT]
+Overconfidence bias leads investors to overestimate their knowledge and predictive ability.
+
+[INSIGHT]
+This results in excessive trading and lower returns.
+
+[RULE]
+If trading frequency is high → Then overconfidence bias is likely present
+
+[CONCEPT]
+Loss aversion means losses are felt more strongly than gains.
+
+[INSIGHT]
+Investors tend to hold losing assets too long and sell winning assets too early.
+
+[RULE]
+If an investor holds losing positions for too long → Then loss aversion bias is influencing decisions
+
+[CONCEPT]
+Anchoring bias occurs when investors rely too heavily on past prices or initial information.
+
+[INSIGHT]
+This prevents proper adjustment to new market conditions.
+
+[RULE]
+If investment decisions are based on past prices → Then anchoring bias may distort judgment
+
+[CONCEPT]
+Market crashes follow a behavioral cycle: boom → euphoria → trigger → panic.
+
+[INSIGHT]
+Emotional contagion causes rapid selling and liquidity collapse during crashes.
+
+[RULE]
+If panic selling increases → Then market liquidity decreases and volatility rises
+
+[CONCEPT]
+Fear & Greed Index measures market sentiment on a scale from 0 to 100.
+
+[INSIGHT]
+Low values indicate fear, high values indicate greed.
+
+[RULE]
+If Fear & Greed Index < 25 → Then market is in extreme fear
+
+[RULE]
+If Fear & Greed Index > 75 → Then market is in extreme greed
+
+[TABLE_ROW]
+Sentiment: Extreme Greed
+Range: 76–100
+Behavior: Overconfidence, excessive risk-taking
+Strategy: Reduce exposure, hedge positions
+
+[TABLE_ROW]
+Sentiment: Greed
+Range: 51–75
+Behavior: Optimism, increased risk appetite
+Strategy: Maintain discipline, monitor risks
+
+[TABLE_ROW]
+Sentiment: Neutral
+Range: 45–55
+Behavior: Balanced decision-making
+Strategy: Rebalance portfolio
+
+[TABLE_ROW]
+Sentiment: Fear
+Range: 25–44
+Behavior: Risk reduction, defensive positioning
+Strategy: Identify value opportunities
+
+[TABLE_ROW]
+Sentiment: Extreme Fear
+Range: 0–24
+Behavior: Panic selling
+Strategy: Contrarian buying
+
+[CONCEPT]
+Fear & Greed Index is calculated using multiple indicators such as volatility, momentum, and safe-haven demand.
+
+[INSIGHT]
+It is a lagging indicator and should not be used alone for decision-making.
+
+[RULE]
+If using sentiment indicators → Then combine with fundamentals and technical analysis
+
+[CONCEPT]
+AI trading systems can reduce emotional bias but may introduce new behavioral risks.
+
+[INSIGHT]
+AI reduces loss aversion but can increase overconfidence and reliance on models.
+
+[RULE]
+If AI-generated signals are blindly followed → Then overconfidence and model risk increase
+
+[TABLE_ROW]
+Bias: Loss Aversion
+AI Impact: Reduced
+Behavior: Increased risk-taking
+
+[TABLE_ROW]
+Bias: Overconfidence
+AI Impact: Amplified
+Behavior: Overtrading and overreliance
+
+[TABLE_ROW]
+Bias: Anchoring
+AI Impact: Increased
+Behavior: Dependence on initial predictions
+
+[TABLE_ROW]
+Bias: Recency Bias
+AI Impact: Inherited
+Behavior: Trend-following decisions
+
+[CONCEPT]
+AI agents in finance operate across four layers: perception, reasoning, strategy, and execution.
+
+[TABLE_ROW]
+Layer: Data Perception
+Function: Collect market, news, and sentiment data
+
+[TABLE_ROW]
+Layer: Reasoning Engine
+Function: Analyze and rank scenarios
+
+[TABLE_ROW]
+Layer: Strategy Generation
+Function: Create investment decisions
+
+[TABLE_ROW]
+Layer: Execution
+Function: Execute trades with risk controls
+
+[CONCEPT]
+Behavioral finance can be used to improve portfolio performance by reducing psychological errors.
+
+[INSIGHT]
+Managing behavioral biases can improve returns by 3–6% annually.
+
+[RULE]
+If emotional bias is reduced → Then portfolio performance improves over time
