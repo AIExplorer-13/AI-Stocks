@@ -2,5 +2,10 @@ langchain
 langchain-core
 langchain-community
 langchain-text-splitters
+langchain-ollama
 pypdf
 pymupdf
+yfinance
+faiss-cpu
+chromadb
+sentence-transformers
